@@ -1,0 +1,22 @@
+.course-form {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    width: 300px;
+}
+
+.input-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.number-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.course-input {
+    width: 200px;
+}

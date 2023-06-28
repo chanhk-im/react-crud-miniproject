@@ -1,0 +1,21 @@
+nav {
+    width: auto;
+    background-color: green;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px;
+}
+
+.nav-left {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-item {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}

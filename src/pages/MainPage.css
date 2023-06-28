@@ -1,0 +1,10 @@
+main {
+    width: auto;
+    background-color: blue;
+    height: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}

@@ -1,0 +1,25 @@
+.reg-course {
+    width: 570px;
+    background-color: white;
+    margin: 10px;
+}
+
+.major-column {
+    width: 80px;
+}
+
+.credit-column {
+    width: 40px;
+}
+
+.professor-column {
+    width: 60px;
+}
+
+.register-list-column {
+    width: 70px;
+}
+
+.registration-column {
+    width: 60px;
+}
